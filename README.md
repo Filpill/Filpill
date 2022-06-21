@@ -22,7 +22,8 @@
 - Link to my [CV](https://github.com/Filpill/LaTeX/blob/main/cv/filip-livancic-cv.pdf) on github: 
 
 ## Projects
-- Refer to the Projects on my [personal website](https://filpill.github.io/projects/) for discussion/examples of my resulting projects. For the project contents, you can refer to my [respective github repo's](https://github.com/Filpill?tab=repositories)
+- Refer to my [personal website](https://filpill.github.io/projects/) for short discussions and displays of my resulting work. 
+- Refer to my [respective github repo's](https://github.com/Filpill?tab=repositories) for the project files.
 
 ## LinkedIn
 - [LinkedIn profile - Filip Livancic](https://www.linkedin.com/in/filip-livancic/)
