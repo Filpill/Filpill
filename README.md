@@ -14,10 +14,6 @@
 - Hobbyist Glider Pilot
 - Hobbyist 3D Print Designer
 
-## Future Potential Projects
-- Creating a LDA Topic Modelling which can ingest data and analyse groupings of words.
-- Furthermore training a machine learning model to automate text classification process of a set of text data.
-
 ## Work Experience
 - Link to my [CV](https://github.com/Filpill/LaTeX/blob/main/cv/filip-livancic-cv.pdf) on github: 
 
