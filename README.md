@@ -2,7 +2,7 @@
 <div id="header" align="left">
   <img src="https://www.codewars.com/users/Filpill/badges/large" width="350"/>
 </div>
-[Filpill - Codewars Profile](https://www.codewars.com/users/Filpill/)
+Filpill - Codewars Profile: https://www.codewars.com/users/Filpill
 
 ## About Me
 - Aeronuatical engineer graduate
