@@ -2,9 +2,7 @@
 <div id="header" align="left">
   <img src="https://www.codewars.com/users/Filpill/badges/large" width="350"/>
 </div>
-- Predominantly solving Python and SQL Problems.
-
-- Link to my profile: [Filpill - Codewars Profile](https://www.codewars.com/users/Filpill/)
+[Filpill - Codewars Profile](https://www.codewars.com/users/Filpill/)
 
 ## About Me
 - Aeronuatical engineer graduate
