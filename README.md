@@ -1,24 +1,17 @@
-### Badges
+### About Me 
 
-<div id="header" align="left">
-  <img src="https://www.codewars.com/users/Filpill/badges/large" width="420"/>
-</div>
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
-![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-
-### About Me
-- Aeronuatical engineering educational background
-- Self-taught programmer in data analytics and engineering
-- Highly knowledgable in airline safety management domain
+- Aeronautical engineering educational background: Aero/Mechanical + Aircraft Design
+- Self-taught data analytics programmer: Python/Microsoft SQL Server
+- Highly knowledgeable in airline safety management domain
+- Interested in automation of data analytics
 - Hobbyist 3D Print Designer
 - Hobbyist Glider Pilot
 
 ### Links
-- [Resume](https://github.com/Filpill/LaTeX/blob/main/cv/filip-livancic-cv.pdf)
-- [LinkedIn Profile](https://www.linkedin.com/in/filip-livancic/)
-- [Codewars Profile](https://www.codewars.com/users/Filpill/)
-- [Projects Website:](https://filpill.github.io/projects/) https://filpill.github.io/projects/
+
+ ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)|  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) |  ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo) 
+| :--------: | :----------: | :----------: |
+ [Resume](https://github.com/Filpill/LaTeX/blob/main/cv/filip-livancic-cv.pdf) | [LinkedIn Profile](https://www.linkedin.com/in/filip-livancic/) |  [Projects Website](https://filpill.github.io/) 
+ 
+   ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) | <div id="header" align="left"> <img src="https://www.codewars.com/users/Filpill/badges/small" height="28"/> </div> | [Codewars Profile](https://www.codewars.com/users/Filpill/) 
+| :--------: | :----------: | :----------: |
