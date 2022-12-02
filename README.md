@@ -13,5 +13,11 @@
 | :--------: | :----------: | :----------: |
  [Resume](https://github.com/Filpill/LaTeX/blob/main/cv/filip-livancic-cv.pdf) | [LinkedIn Profile](https://www.linkedin.com/in/filip-livancic/) |  [Projects Website](https://filpill.github.io/) 
  
+ ### Codewars Stats
+ Project: https://filpill.github.io/data_projects/codewars/
    ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) | <div id="header" align="left"> <img src="https://www.codewars.com/users/Filpill/badges/small" height="28"/> </div> | [Codewars Profile](https://www.codewars.com/users/Filpill/) 
 | :--------: | :----------: | :----------: |
+
+
+<img src="https://raw.githubusercontent.com/Filpill/codewars-stats/main/charts/rank_distribution.png" alt="drawing" width="650"/> | <img src="https://raw.githubusercontent.com/Filpill/codewars-stats/main/charts/language_pie.png" alt="drawing" width="430"/>
+| :--------: | :----------: |
