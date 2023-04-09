@@ -31,5 +31,5 @@ Project: https://github.com/Filpill/codewars-stats
  
  <p align = center>
  <img src="https://github.com/Filpill/chess_analysis/blob/main/charts/avg_rating_line.png" alt="drawing" width="800"/>
- <img src="https://github.com/Filpill/chess_analysis/blob/main/charts/top_openings.png" alt="drawing" width="1000"/>
+ <img src="https://github.com/Filpill/chess_analysis/blob/main/charts/top_openings.png" alt="drawing" width="800"/>
  </p>
