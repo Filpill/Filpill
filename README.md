@@ -1,3 +1,5 @@
+### [Navigate to Filip's Project Website](https://filpill.github.io/) 
+
 ### About Me 
 
 - Aeronautical engineering educational background: Aero/Mechanical + Aircraft Design
@@ -6,8 +8,6 @@
 - Interested in automation of data analytics
 - Hobbyist 3D Print Designer
 - Hobbyist Glider Pilot
-
-### [Filip's Project Website](https://filpill.github.io/) 
  
  ### Codewars Stats
 Article: https://filpill.github.io/data_projects/codewars/
