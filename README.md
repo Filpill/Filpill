@@ -14,8 +14,8 @@
 ### [Chess Statistics](https://github.com/Filpill/chess_analysis)
  
  <p align = center>
- <img src="https://github.com/Filpill/chess_analysis/blob/main/charts/top_openings.png" alt="drawing" width="750"/>
- <img src="https://github.com/Filpill/chess_analysis/blob/main/charts/avg_rating_line.png" alt="drawing" width="750"/>
+ <img src="https://github.com/Filpill/chess_analysis/blob/main/charts/top_openings.png" alt="drawing" width="1000"/>
+ <img src="https://github.com/Filpill/chess_analysis/blob/main/charts/avg_rating_line.png" alt="drawing" width="1000"/>
  </p>
 
 ### [Codewars Statistics](https://github.com/Filpill/codewars-stats)
