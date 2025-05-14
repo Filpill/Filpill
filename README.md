@@ -5,12 +5,6 @@
 
 -----------------------------------------------------------------------------------------
 
-### [Flight Tracking](https://github.com/Filpill/flight_tracking)
- <p align = center>
- <img src="https://raw.githubusercontent.com/Filpill/flight_tracking/main/data/samples/scatter_kde_sample.jpg" alt="drawing" width="1000"/>
- </p>
-
-
 ### [Chess Statistics](https://github.com/Filpill/chess_analysis)
  > https://www.youtube.com/watch?v=lwSkZTkpnEY&list=PLO11bvk9ifg6WvIlJgwl3jy9nzk20JqAD
 
@@ -18,7 +12,11 @@
  <img src="https://github.com/Filpill/chess_analysis/blob/main/diagrams/analysis/top_openings.png" alt="drawing" width="1000"/>
  </p>
 
-# 
+### [Flight Tracking](https://github.com/Filpill/flight_tracking)
+ <p align = center>
+ <img src="https://raw.githubusercontent.com/Filpill/flight_tracking/main/data/samples/scatter_kde_sample.jpg" alt="drawing" width="1000"/>
+ </p>
+
 ### [Counter-Strike Pomodoro Timer](https://github.com/Filpill/hl-vox-timeleft)
 > https://youtube.com/shorts/OZr_s5ugzXM
 
