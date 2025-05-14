@@ -1,6 +1,6 @@
 # Filip's Github Profile
 **Links:**
-Knowledge shares available on my personal website and youtube channel:
+Knowledge shares available on my personal website and youtube channel
 
 > **[🌐 Blog | filiplivancic.com](https://filiplivancic.com)**
 > 
