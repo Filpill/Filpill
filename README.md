@@ -2,8 +2,11 @@
 **Links:**
 Knowledge shares available on my personal website and youtube channel:
 
-- **[🌐 Blog - filiplivancic.com](https://filiplivancic.com)**
-- **[📹 Youtube Profile - @Filpill](https://www.youtube.com/@FilPill)**
+> **[🌐 Blog | filiplivancic.com](https://filiplivancic.com)**
+> 
+> **[📺 Youtube Profile | @Filpill](https://www.youtube.com/@FilPill)**
+> 
+> **[👨‍🔧 LinkedIn Profile | Filip Livancic](https://www.linkedin.com/in/filip-livancic/)**
 
 -----------------------------------------------------------------------------------------
 
