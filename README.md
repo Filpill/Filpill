@@ -12,7 +12,8 @@ Knowledge shares available on my personal website and youtube channel
 ### [♟️ Chess Data Engineeing Pipeline Youtube Series](https://github.com/Filpill/chess_analysis)
  > https://www.youtube.com/watch?v=lwSkZTkpnEY&list=PLO11bvk9ifg6WvIlJgwl3jy9nzk20JqAD
  <p align = center>
- <img src="https://github.com/Filpill/chess_analysis/blob/main/diagrams/analysis/top_openings.png" alt="drawing" width="1000"/>
+ <img src="https://raw.githubusercontent.com/Filpill/chess_analysis/refs/heads/main/dash/bq_monitor/assets/gif/bq-monitor-dash-v2.gif" alt="drawing" width="400"/>
+ <img src="https://raw.githubusercontent.com/Filpill/chess_analysis/refs/heads/main/dash/chess_app/assets/gif/chess_app_demo.gif" alt="drawing" width="520"/>
  </p>
 
 ### [✈️ Flight Tracking](https://github.com/Filpill/flight_tracking)
