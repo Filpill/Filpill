@@ -9,8 +9,7 @@ Knowledge shares available on my personal website and youtube channel
 
 -----------------------------------------------------------------------------------------
 
-### [♟️ Chess Data Engineeing Pipeline Project](https://github.com/Filpill/chess_analysis)
-> [GCP Chess Data Engineering Youtube Playlist](https://www.youtube.com/watch?v=lwSkZTkpnEY&list=PLO11bvk9ifg6WvIlJgwl3jy9nzk20JqAD)
+### [♟️ Chess Data Engineering Pipeline Project](https://github.com/Filpill/chess_analysis)
  <p align = center>
  <img src="https://raw.githubusercontent.com/Filpill/chess_analysis/refs/heads/main/dash/bq_monitor/assets/gif/bq-monitor-dash-v2.gif" alt="drawing" height="300"/>
  <img src="https://raw.githubusercontent.com/Filpill/chess_analysis/refs/heads/main/dash/chess_app/assets/gif/chess_app_demo.gif" alt="drawing" height="300"/>
