@@ -27,7 +27,7 @@
  </p>
 
 ### [✈️ Flight Tracking Timelapse](https://github.com/Filpill/flight_tracking)
-> Ingesting OpenSky API data using IP rotation techniques to retrieve snapshots of airspace data. I animated the airspace flight pathing in North America over a 24 hour cycle.
+> Ingesting OpenSky API data using IP rotation techniques to retrieve snapshots of airspace data which was animated over a 24 hour cycle.
 
 > [Youtube Airspace Animation](https://www.youtube.com/watch?v=wC3WE-jOU0w)
  <p align = center>
