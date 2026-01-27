@@ -22,8 +22,8 @@
 ### [♟️ Chess Data Engineering ](https://github.com/Filpill/chess_analysis) 
 > ETL pipeline collecting API data in both GCS/BigQuery. Analytics presented on Dash applications hosted on Cloud Run. 
  <p align = center>
- <img src="https://raw.githubusercontent.com/Filpill/chess_analysis/refs/heads/main/dash/bq_monitor/assets/gif/bq-monitor-dash-v2.gif" alt="drawing" height="300"/>
- <img src="https://raw.githubusercontent.com/Filpill/chess_analysis/refs/heads/main/dash/chess_app/assets/gif/chess_app_demo.gif" alt="drawing" height="300"/>
+ <img src="https://raw.githubusercontent.com/Filpill/chess_analysis/refs/heads/main/dash/bq_monitor/assets/gif/bq-monitor-dash-v2.gif" alt="drawing" width="500"/>
+ <img src="https://raw.githubusercontent.com/Filpill/chess_analysis/refs/heads/main/dash/chess_app/assets/gif/chess_app_demo.gif" alt="drawing" width="500"/>
  </p>
 
 ### [✈️ Flight Tracking Timelapse](https://github.com/Filpill/flight_tracking)
@@ -31,5 +31,5 @@
 
 > [Youtube Airspace Animation](https://www.youtube.com/watch?v=wC3WE-jOU0w)
  <p align = center>
- <img src="https://raw.githubusercontent.com/Filpill/flight_tracking/main/data/samples/scatter_kde_sample.jpg" alt="drawing" width="1000"/>
+ <img src="https://raw.githubusercontent.com/Filpill/flight_tracking/main/data/samples/kde-flight-animation.gif" alt="drawing" width="1000"/>
  </p>
