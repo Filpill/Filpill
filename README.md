@@ -20,14 +20,14 @@
  </p>
 
 ### [♟️ Chess Data Engineering ](https://github.com/Filpill/chess_analysis) 
-> End-to-End ETL Pipeline collecting API data monthly in both GCS and BigQuery using GCP Platform Tools. Analytics presented on Dash applications hosted on Cloud Run. 
+> ETL pipeline collecting API data in both GCS/BigQuery. Analytics presented on Dash applications hosted on Cloud Run. 
  <p align = center>
  <img src="https://raw.githubusercontent.com/Filpill/chess_analysis/refs/heads/main/dash/bq_monitor/assets/gif/bq-monitor-dash-v2.gif" alt="drawing" height="300"/>
  <img src="https://raw.githubusercontent.com/Filpill/chess_analysis/refs/heads/main/dash/chess_app/assets/gif/chess_app_demo.gif" alt="drawing" height="300"/>
  </p>
 
 ### [✈️ Flight Tracking Timelapse](https://github.com/Filpill/flight_tracking)
-> Ingesting OpenSky API data using IP rotation techniques to retrieve snapshots of airspace data which was animated over a 24 hour cycle.
+> Retrieved OpenSky API data to retrieve airspace snapshots data every minute and was animated over a 24 hour cycle.
 
 > [Youtube Airspace Animation](https://www.youtube.com/watch?v=wC3WE-jOU0w)
  <p align = center>
