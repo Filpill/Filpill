@@ -15,6 +15,8 @@
 
 ### [🎮 Deadlock API Analytics](https://github.com/Filpill/deadlock_analytics) 
 > Analysing Deadlock Match Data by surfacing analytics using the Deadlock API and hosting Flask web app on GCP Cloud Run.
+
+> 🚀 Try it now: https://deadlock-analytics-164941517977.europe-west2.run.app
  <p align = center>
  <img src="https://raw.githubusercontent.com/Filpill/deadlock_analytics/master/static/img/data-demo.gif" alt="drawing" width="1000"/>
  </p>
